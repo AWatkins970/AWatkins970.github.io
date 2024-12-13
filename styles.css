@@ -1,1 +1,17 @@
+body {margin-left: 50px; background-color: white; font-family: Arial; padding-bottom: 10px;}
 
+h1, h2, h3 {font-size: 24px;}
+
+p { font-size: 14px;}
+
+a {color: darkblue;}
+
+a:hover {color: blue;    text-shadow: 5px 5px 5px deepskyblue;}
+
+table {border: 2px solid black; border-radius: 5px; text-align: center; font-size: 14px;}
+
+th {font-size: 14px; color: white; background-color: darkslategray; padding: 10px;}
+
+td {padding: 5px;}
+
+tr:hover {font-style: bold; background-color: skyblue;} 
