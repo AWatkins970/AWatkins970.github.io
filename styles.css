@@ -6,7 +6,7 @@ p { font-size: 14px;}
 
 a {color: darkblue;}
 
-a:hover {color: blue;    text-shadow: 5px 5px 5px deepskyblue;}
+a:hover {color: blue; text-shadow: 5px 5px 5px deepskyblue;}
 
 table {border: 2px solid black; border-radius: 5px; text-align: center; font-size: 14px;}
 
@@ -14,4 +14,6 @@ th {font-size: 14px; color: white; background-color: darkslategray; padding: 10p
 
 td {padding: 5px;}
 
-tr:hover {font-style: bold; background-color: skyblue;} 
+tr:hover {font-style: bold; background-color: skyblue;}
+
+td:hover {font-style: bold; text-shadow: 5px 5px 5px white;}
